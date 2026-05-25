@@ -8,15 +8,15 @@
 
 В командной строке введите:
 
-
-`pip install selenium pandas openpyxl`
-
+```
+pip install selenium pandas openpyxl
+```
 
 Для запуска введите:
 
-
-`python NavAddToEvent.py`
-
+```
+python NavAddToEvent.py
+```
 
 При первом запуске вас попросят ввести логин, пароль, название мероприятия, дату и время
 Введённые данные будут храниться в config.json
